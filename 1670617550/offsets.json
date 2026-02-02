@@ -411,6 +411,14 @@
     "iPhone XS Max": {
       "offset": "+86+78",
       "width": 1242
+    },
+    "iPhone 17 Pro": {
+      "offset": "+72+69",
+      "width": 1206
+    },
+    "iPad Pro (11 inch) (M4)": {
+      "offset": "+106+110",
+      "width": 1668
     }
   }
 }
